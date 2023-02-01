@@ -1,4 +1,4 @@
-module github.com/somraj/googlescrapper
+module github.com/somraj2929/googlescrapper
 
 go 1.19
 
